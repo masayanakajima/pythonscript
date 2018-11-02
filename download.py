@@ -4,7 +4,7 @@ import os
 import sys
 
 while(True):
-	input_text=input("URL or EXIT:")
+    input_text=input("URL or EXIT!")
 
 	if(input_text=="exit"):
 	    sys.exit()
